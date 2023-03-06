@@ -1,0 +1,43 @@
+Monatliches Budget:
+	Liste an Abos definieren
+		Abo: Name, Preis, Zeitraum (z.B. monatlich, jährlich etc.)
+			Zusatzinfos:
+				Link zu Webseite
+				Beschreibung
+				Abo-Modelle
+				Möglichkeiten zur Kündigung
+				
+	Liste an Einnahmen definieren:
+		Einnahme: Name, Beschreibung, Betrag
+		
+		
+		
+Kostenrechner:
+	Liste aller definierten Einnahmen / Abos
+		Auswählbar (z.B. Checkbox) welche genommen werden sollen für die Berechnung
+		Errechnen des Budgets für den Monat
+		
+		Möglichkeit zur Berechnung des täglichen Restbetrags für den Monat
+		
+Spar-Planer
+	Objekt definieren (z.B. neuer Fernseher) mit Preis
+		Verschiedene Optionen:
+			Kosten berechnen für Kauf bis zu einem Datum
+				Datum eingeben, Start-Kapital eingeben
+				Rechner berechnet den monatlichen Betrag den man auf die Seite legen muss, um die Kosten zu decken
+				
+			Kaufzeitpunkt berechnen für Kauf mit max. monatlichen Kosten
+				max. monatliche Kosten eingeben
+				Rechner berechnet das Datum, wann man genug Geld gespart hat, um sich das Gerät zu kaufen
+				
+			Zusätzlich die Möglichkeit, z.B. besondere Ereignisse anzugeben, bei denen Geld dazu/wegkommt (z.B. Geburtstag, Weihnachtsgeld etc.)
+			Zusätzlich die Möglichkeit für Zinsen (für z.B. Kredit etc.)
+			
+Budget-Rechner für längeren Zeitraum
+	Nimmt monatliches Budget und berechnet das Budget auf einen beliebigen Zeitraum (z.B. 1 Jahr)
+	Möglichkeit, gewisse fixe Ausgaben/Einnahmen in dem Zeitraum mit Datum oder Zeitspanne einzugeben
+	
+	
+	
+Abo-Hilfe:
+	Liste an bekannten Abos anbieten (wird auch für monatliches Budget verwendet) mit weiterführenden Informationen zu anderen Abo-Modellen, Kündigungsmöglichkeiten etc.
